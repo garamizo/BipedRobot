@@ -6,11 +6,11 @@ CAD files available on [Onshape](https://cad.onshape.com/documents/b0b0a56c48c90
 
 3D Print (STL) files available on [Printables](https://www.printables.com/model/683150-biped-robot)
 
-| <img src="imgs/trimetric-make.png" height=300> | <img src="imgs/left-make.png" height=300> |
+| <img src="imgs/trimetric-make.png" height=300/> | <img src="imgs/left-make.png" height=300/> |
 |---|---|
 |Trimetric | Left |
 
-| <img src="imgs/dimetric.png" height=300> | <img src="imgs/front.png" height=300> | <img src="imgs/right.png" height=300> |
+| <img src="imgs/dimetric.png" height=300/> | <img src="imgs/front.png" height=300/> | <img src="imgs/right.png" height=300/> |
 |---|---|---|
 |Dimetric | Front | Right |
 
@@ -48,3 +48,8 @@ CAD files available on [Onshape](https://cad.onshape.com/documents/b0b0a56c48c90
 |23  |1       |CUSTOM       |BPD-201A BodyR   |Body-Right             |
 |24  |1       |ElectroCookie|B07ZYTZ48N 1     |Snappable PCB 1        |
 |25  |1       |HiLetGo      |NodeMCU-32S      |ESP32 Micro Controller |
+
+- SHCS_DxL: Socket Head Cap Screw w/ Diameter and Length
+- HN_D: Hex Nut w/ Diameter
+- FW_D: Flat Washer w/ Diameter
+- RodMM: Rod Male and Male thread
